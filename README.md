@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/jeansy42/Rest-countries-api-with-darkmode/](https://github.com/jeansy42/Rest-countries-api-with-darkmode/)
+- Live Site URL: [https://jeansy42.github.io/Rest-countries-api-with-darkmode/](https://jeansy42.github.io/Rest-countries-api-with-darkmode/)
 
 ## My process
 
