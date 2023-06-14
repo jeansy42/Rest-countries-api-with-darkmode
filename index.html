@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Rest countries Api</title>
+    <link rel="stylesheet" href="style.css">
+
+  </head>
+  <body>
+    <div id="header" role="banner">
+      <h2 class="title">Where in the world?</h2>
+     
+      <button class="darkmode"> <ion-icon name="moon-outline" class="ion_header"></ion-icon>Dark Mode</button>
+    </div>
+    <div id="nav" role="navigation">
+      <form class="search__form" action="" role="search" name="search&filter">
+        <input
+          id="form__control"
+          class="form-control me-2"
+          type="search"
+          placeholder="Search for a country..."
+          aria-label="Search"
+        />
+        <select
+          id="form__select"
+          class="form-select"
+          aria-label="Default select example"
+        >
+          <option disabled selected value="" style="display: none;">Filter by region</option>
+          <option value="Africa">Africa</option>
+          <option value="Americas">Americas</option>
+          <option value="Asia">Asia</option>
+          <option value="Europe">Europe</option>
+          <option value="Oceania">Oceania</option>
+        </select>
+      </form>
+    </div>
+    <div id="content" role="main">
+   
+    </div>
+    <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+<script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+    <script  src="index.js"></script>
+  </body>
+</html>
